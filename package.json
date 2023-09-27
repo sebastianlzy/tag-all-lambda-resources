@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1465.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
